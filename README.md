@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [KWalletPay](https://github.com/akashray398/KWalletPay.git)
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-phi-coral.vercel.app/](my-portfolio-nine-navy-73.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-website-phi-coral.vercel.app/](my-portfolio-nine-navy-73.vercel.app)
 
 - 📝 I regularly write articles on [My Learning Journey](My Learning Journey)
 
