@@ -6,10 +6,10 @@
   <a href="https://github.com/akashray398">
     <img src="https://img.shields.io/badge/GitHub-akashray398-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/akash-yadav-878906286">
     <img src="https://img.shields.io/badge/LinkedIn-Akash%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://my-portfolio-nine-navy-73.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -135,23 +135,6 @@ I enjoy combining traditional Android development with **AI-powered features**, 
 * 🌙 Dark mode
 * ⚡ Reactive UI state
 * 🎨 Material 3 experience
-
----
-
-## 💳 KWalletPay — Android Wallet
-
-> Android wallet application for managing balances, transactions and financial records.
-
-**Tech:** `Kotlin` `Java` `XML` `Firebase` `Retrofit` `MVVM`
-
-### Highlights
-
-* 💰 Balance tracking
-* 💳 Transaction management
-* 📜 Transaction history
-* 🔥 Firebase integration
-* 🌐 REST API integration
-* 📱 Modern mobile interface
 
 ---
 
