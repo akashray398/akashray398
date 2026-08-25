@@ -1,57 +1,266 @@
+# Hey 👋, I'm Akash Kumar Yadav!
 
-<h1 align="center">Hi 👋, I'm Akash Yadav</h1>
-<h3 align="center">Aspiring Android Developer and Java Developer</h3>
+### 📱 Android Developer | Kotlin & Java | Jetpack Compose | Applied AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashray398&label=Profile%20views&color=0e75b6&style=flat" alt="akashray398" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashray398" alt="akashray398" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [KWalletPay](https://github.com/akashray398/KWalletPay.git)
-
-- 🌱 I’m currently learning **Android SDK, Jetpack Compose , Kotlin**
-
-- 👯 I’m looking to collaborate on [KWalletPay](https://github.com/akashray398/KWalletPay.git)
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-nine-navy-73.vercel.app/]
-
-- 📝 I regularly write articles on [My Learning Journey](My Learning Journey)
-
-- 💬 Ask me about **Java, Kotlin, Android**
-
-- 📫 How to reach me **akashw6666@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/akash-yadav-878906286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akash-yadav-878906286" height="30" width="40" /></a>
-<a href="https://instagram.com/ydv.akash._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ydv.akash._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akashray398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashray398" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/akashray398">
+    <img src="https://img.shields.io/badge/GitHub-akashray398-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Akash%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashray398&show_icons=true&locale=en&layout=compact" alt="akashray398" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashray398&show_icons=true&locale=en" alt="akashray398" /></p>
+I'm an **Information Technology undergraduate and Android Developer** focused on building modern, scalable, and user-friendly mobile applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashray398&" alt="akashray398" /></p>
+My primary stack is **Kotlin, Java, Jetpack Compose, MVVM, Clean Architecture, Room, Retrofit, Hilt, Firebase, and Material 3**.
 
+I enjoy combining traditional Android development with **AI-powered features**, REST APIs, voice interaction, local-first architecture, and modern UI/UX.
 
-<!--
-**akashray398/akashray398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 📱 Focused on **Modern Android Development**
+* 🧠 Exploring **Applied AI inside Android applications**
+* ☕ Strengthening **Java + DSA** for software engineering interviews
+* 🏗️ Learning scalable architecture using **MVVM & Clean Architecture**
+* 🌐 Experienced with REST APIs, SQL, Firebase and backend fundamentals
+* 🤖 Exploring **LLMs, RAG, ML Kit and on-device AI**
+* 🔭 Currently building **Kontact++**, a modern intelligent contact experience
+* 💡 I enjoy turning practical problems into polished software products
+* 🎯 Goal: Build production-quality Android applications with strong engineering fundamentals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 📱 Android Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,gradle" />
+</p>
+
+**Kotlin • Java • Jetpack Compose • XML • Material 3 • MVVM • Clean Architecture • Room • Retrofit • Hilt • Coroutines • StateFlow • DataStore • Firebase**
+
+### 🤖 AI & Intelligent Applications
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
+
+**LLM APIs • Groq • Gemini • OpenRouter • Prompt Engineering • RAG Fundamentals • ML Kit • Voice/TTS • AI API Integration**
+
+### 🗄️ Database & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,nodejs,dotnet" />
+</p>
+
+**Room DB • SQLite • MySQL • Firebase • MongoDB • REST APIs • Node.js/Express Fundamentals • ASP.NET Core Fundamentals**
+
+### 🌐 Web Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+**HTML • CSS • JavaScript • React • Tailwind CSS**
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,postman" />
+</p>
+
+**Git • GitHub • Android Studio • IntelliJ IDEA • VS Code • Postman**
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Nexora AI — Android AI Assistant
+
+> A modern AI-powered Android assistant combining conversational AI, voice interaction and developer-focused tools.
+
+**Tech:** `Kotlin` `Jetpack Compose` `MVVM` `Clean Architecture` `Room` `Hilt` `Retrofit`
+
+### Highlights
+
+* 💬 Multi-model AI chat
+* 🎙️ Speech Recognition & Text-to-Speech
+* 🧠 Groq, Gemini & OpenRouter integration
+* 💻 AI-powered code analysis
+* 🎯 Interview preparation
+* 💾 Persistent chat history
+* 🔎 Conversation search
+* 🎨 Material 3 UI & animations
+
+---
+
+## 📇 Kontact++ — Intelligent Contact Experience
+
+> A privacy-focused modern contacts application designed to rethink traditional phone and contact management.
+
+**Tech:** `Kotlin` `Jetpack Compose` `MVVM` `Room` `Material 3`
+
+### Highlights
+
+* 📇 Modern contact management
+* ☎️ Smart T9 dialer
+* ⏰ Contact reminders
+* 🔐 Privacy-focused contact vault
+* 📷 OCR-assisted contact capture
+* 🧠 Optional intelligent features
+* 📱 Local-first architecture
+* ✨ Modern Compose UI
+
+---
+
+## 📝 KNotes — Notes & Task Manager
+
+> A modern productivity application combining notes and task management with clean Android architecture.
+
+**Tech:** `Kotlin` `Jetpack Compose` `Material 3` `MVVM` `Room` `Firebase`
+
+### Highlights
+
+* 📝 Notes & task management
+* ⏰ Deadlines and priorities
+* 🔍 Search & filtering
+* 💾 Local persistence
+* 🌙 Dark mode
+* ⚡ Reactive UI state
+* 🎨 Material 3 experience
+
+---
+
+## 💳 KWalletPay — Android Wallet
+
+> Android wallet application for managing balances, transactions and financial records.
+
+**Tech:** `Kotlin` `Java` `XML` `Firebase` `Retrofit` `MVVM`
+
+### Highlights
+
+* 💰 Balance tracking
+* 💳 Transaction management
+* 📜 Transaction history
+* 🔥 Firebase integration
+* 🌐 REST API integration
+* 📱 Modern mobile interface
+
+---
+
+## ☕ Coffee Shop Frontend
+
+> Responsive coffee shop website focused on modern frontend design and user experience.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+* Responsive UI
+* Interactive components
+* Modern landing page
+* Product showcase
+
+---
+
+# 🧠 Currently Learning
+
+```text
+📱 Advanced Android Development
+├── Jetpack Compose
+├── Clean Architecture
+├── Coroutines & Flow
+├── Testing
+└── Android Security
+
+🤖 Applied AI
+├── Python
+├── FastAPI
+├── LLM Integration
+├── RAG
+├── Structured AI Outputs
+├── ML Kit
+└── On-device AI
+
+💻 Placement Preparation
+├── Java DSA
+├── Arrays & Strings
+├── Two Pointers
+├── Sliding Window
+├── Hashing
+├── Trees & Graphs
+├── SQL
+└── Core CS Fundamentals
+```
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashray398&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashray398&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashray398&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashray398&theme=tokyonight" />
+</p>
+
+---
+
+# 🎓 Education & Training
+
+🎓 **B.Tech — Information Technology**
+CGPA: **8.05/10**
+
+### Training & Certifications
+
+* 🟣 **Wipro TalentNext** — .NET Developer Training
+* 🔵 **Infosys Springboard** — Android Using Kotlin
+* 🔵 **Infosys Springboard** — Java Concepts
+* ☁️ **AWS Academy** — Cloud Operations & Data Engineering
+* 🌐 **Cisco Networking Academy** — Introduction to Modern AI
+* 🔐 **TATA** — Cybersecurity Analyst
+
+---
+
+# 💡 What I Bring
+
+```text
+Android Development   ███████████████████░
+Kotlin / Java         ███████████████████░
+Jetpack Compose       ██████████████████░░
+REST API Integration  ██████████████████░░
+SQL / Databases       █████████████████░░░
+Applied AI            ██████████████░░░░░░
+Web Development       ████████████░░░░░░░░
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **Android development, Kotlin, Java, mobile architecture, AI-powered applications, and software engineering**.
+
+I'm always open to discussing interesting projects, development ideas, collaborations, and opportunities.
+
+<p align="center">
+
+### ⭐ Build. Learn. Improve. Repeat.
+
+**Thanks for visiting my profile! 👨‍💻**
+
+</p>
