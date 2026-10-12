@@ -82,72 +82,67 @@ I enjoy combining traditional Android development with **AI-powered features**, 
 
 # 🚀 Featured Projects
 
-## 🤖 Nexora AI — Android AI Assistant
+## ♻️ SaafLoop — Smart Civic Waste Management
 
-> A modern AI-powered Android assistant combining conversational AI, voice interaction and developer-focused tools.
+> A civic-tech Android app designed to help communities spot litter hotspots, report cleanup issues, and participate in neighborhood sustainability actions.
 
-**Tech:** `Kotlin` `Jetpack Compose` `MVVM` `Clean Architecture` `Room` `Hilt` `Retrofit`
+**Tech:** `Kotlin` `Jetpack Compose` `Material 3` `MVVM`
 
 ### Highlights
 
-* 💬 Multi-model AI chat
-* 🎙️ Speech Recognition & Text-to-Speech
-* 🧠 Groq, Gemini & OpenRouter integration
-* 💻 AI-powered code analysis
-* 🎯 Interview preparation
-* 💾 Persistent chat history
-* 🔎 Conversation search
-* 🎨 Material 3 UI & animations
+* 🧹 Report waste and sanitation issues
+* 🗺️ Explore cleanup locations and civic activity
+* 👥 Join and track neighborhood cleanup drives
+* 📋 Manage drafts, pending reports, and verification flow
+* 🌿 Eco-focused UI and community-first experience
+
+---
+
+## 📝 KNotes — AI-Powered Notes & Productivity Suite
+
+> A premium smart notes and task manager built for knowledge capture, habit tracking, reminders, and AI-assisted productivity.
+
+**Tech:** `Kotlin` `Jetpack Compose` `MVVM` `Clean Architecture` `Room` `Firebase`
+
+### Highlights
+
+* ✍️ Rich notes and task management
+* 🤖 AI-powered summaries and productivity features
+* ⏰ Smart reminders and exact alarms
+* 📊 Habit analytics and progress tracking
+* 🔒 Local-first architecture with sync-ready workflows
 
 ---
 
 ## 📇 Kontact++ — Intelligent Contact Experience
 
-> A privacy-focused modern contacts application designed to rethink traditional phone and contact management.
+> A privacy-focused contact management app designed to modernize how people organize, search, and manage personal and professional contacts.
 
 **Tech:** `Kotlin` `Jetpack Compose` `MVVM` `Room` `Material 3`
 
 ### Highlights
 
-* 📇 Modern contact management
-* ☎️ Smart T9 dialer
-* ⏰ Contact reminders
-* 🔐 Privacy-focused contact vault
-* 📷 OCR-assisted contact capture
-* 🧠 Optional intelligent features
-* 📱 Local-first architecture
-* ✨ Modern Compose UI
+* 📇 Clean modern contact dashboard
+* ☎️ Smart dialer and quick contact actions
+* 🔐 Privacy-first vault and local storage
+* 🧠 AI-assisted intelligent features
+* 📱 Smooth, local-first Android experience
 
 ---
 
-## 📝 KNotes — Notes & Task Manager
+## 🎮 GameStore-API — Full-Stack Game Catalog
 
-> A modern productivity application combining notes and task management with clean Android architecture.
+> A full-stack game catalog app with a .NET Minimal API backend and React frontend for managing games, genres, and product data.
 
-**Tech:** `Kotlin` `Jetpack Compose` `Material 3` `MVVM` `Room` `Firebase`
+**Tech:** `C#` `.NET` `ASP.NET Core` `React` `TypeScript` `SQLite`
 
 ### Highlights
 
-* 📝 Notes & task management
-* ⏰ Deadlines and priorities
-* 🔍 Search & filtering
-* 💾 Local persistence
-* 🌙 Dark mode
-* ⚡ Reactive UI state
-* 🎨 Material 3 experience
-
----
-
-## ☕ Coffee Shop Frontend
-
-> Responsive coffee shop website focused on modern frontend design and user experience.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-* Responsive UI
-* Interactive components
-* Modern landing page
-* Product showcase
+* 🕹️ Browse and manage a game catalog
+* ➕ Create, edit, and delete game entries
+* 🧩 Genre-based organization
+* ⚙️ API-first architecture with SQLite persistence
+* 🌐 React frontend with modern CRUD workflow
 
 ---
 
