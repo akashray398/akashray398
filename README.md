@@ -98,11 +98,11 @@ I enjoy combining traditional Android development with **AI-powered features**, 
 
 ---
 
-## 📝 KNotes — AI-Powered Notes & Productivity Suite
+## 📝CogniTask AI – Offline-First Knowledge & AI Task Execution Platform
 
 > A premium smart notes and task manager built for knowledge capture, habit tracking, reminders, and AI-assisted productivity.
 
-**Tech:** `Kotlin` `Jetpack Compose` `MVVM` `Clean Architecture` `Room` `Firebase`
+**Tech:** `Kotlin` `Jetpack Compose` `Material 3` `MVVM` `Clean Architecture` `Hilt` `Room` `Firebase Firestore` `Gemini AI`
 
 ### Highlights
 
